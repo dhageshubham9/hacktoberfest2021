@@ -5,14 +5,6 @@
 
 Lots of students struggle in creating their first PR. They try somewhat and leave when couldn't. We created this as learning repo on how to create successful pull requests on languages like JAVA, Python, C++, HTML/CSS.
 
-You can look at the issues [here](https://github.com/prorammer/hactoberfest2021_pullrequeshttps://github.com/prorammer/hactoberfest2021_pullrequest/blob/main/CONTRIBUTING.mdhttps://github.com/balbhimk/hacktoberfest2021/blob/main/CONTRIBUTING.md) so that you don't face any troubles.
-
-## How to particpate in Hacktoberfest 2021
-
-How to register, some important rules to follow, which repos to contribute and other details in a 17 mins quick video on our Youtube Channel.
-
-[![](https://raw.githubusercontent.com/twowaits/make-pull-request/master/Images/Hacktoberfest_2021_YT_Thumbnail.png)](https://youtu.be/GuZpeobFsZw)
-
 
 ## Hacktoberfest 2021 Special
 
@@ -31,6 +23,7 @@ This Repository consists of following programming languages
   -  Java
   -  C++ 
   -  python
+  -  html
 
 ## Steps to setup this Repository Locally
 
